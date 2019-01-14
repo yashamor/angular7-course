@@ -1,0 +1,7 @@
+h3 {
+  color: darkblue;
+}
+.alert-wrapper {
+  display: flex;
+  flex-direction: column;
+}
